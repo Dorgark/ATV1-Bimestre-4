@@ -6,7 +6,7 @@
 
         listaDeVeiculos.Add(new Carro { modelo = "BMW" });
         listaDeVeiculos.Add(new Moto{modelo = "PCX" });
-        listaDeVeiculos.Add(new Caminhao{ modelo = "CAT"});
+        listaDeVeiculos.Add(new Caminhao{ modelo = " Globetrotter XL"});
 
         foreach(var tipo in listaDeVeiculos)
         {
